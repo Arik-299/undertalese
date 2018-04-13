@@ -1,0 +1,78 @@
+@font-face {
+font-family: Undertale;
+src: url("fonts/undertale.otf") format("opentype");
+}
+       
+         
+body {
+    background-color: black;
+    color: white;
+    font-family: "Arial";
+    
+}
+h1.redtext{
+color: Red;
+}
+h1 {
+    color: White;
+    text-align: center;
+    font-family: "Undertale";
+}
+h1.warning {
+    color: Red;
+    text-align: center;
+    font-family: "Undertale";
+    font-size:80px;
+}
+h1.help {
+    color: White;
+    text-align: center;
+    font-family: "Undertale";
+    font-size:80px;
+}
+p {
+    font-family: "Arial";
+    font-size: 15px;
+}
+h2 {
+font-family: "Undertale";
+}
+form {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+form fieldset {
+    display: flex;
+    flex-direction: column;
+}
+a:link{
+  color:white;
+}
+a:visited{
+  color:white;
+}
+a:hover{
+  color:red;
+}
+a:focus{
+  color:red;
+}
+a:active{
+  color:red;
+}
+a.warning:link{
+  color:red;
+}
+a.warning:visited{
+  color:red;
+}
+a.warning:hover{
+  color:white;
+}
+a.warning:focus{
+  color:white;
+}
+a.warning:active{
+  color:red;
+}      
