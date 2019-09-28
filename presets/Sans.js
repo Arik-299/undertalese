@@ -1,7 +1,7 @@
 presets["Sans (Genocide Run)"] = {
     ini: {
         "General": {
-            "Name": "Garrett",
+            "Name": "GMR",
             "Love": "19",
             "Time": "0",
             "Kills": "109",
@@ -9,7 +9,7 @@ presets["Sans (Genocide Run)"] = {
         }
     },
     lines: [
-        "Garrett",
+        "GMR",
         "19",
         "92",
         "20",

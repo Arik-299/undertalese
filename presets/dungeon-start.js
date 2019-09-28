@@ -6,14 +6,14 @@ presets["Dungeon Start"] = {
             "Kills": "0",
             "Time": "0",
             "Love": "1",
-            "Name": "Garrett"
+            "Name": "GMR"
         },
         "Flowey": {
             "Met1": "1"
         }
     },
     lines: [
-        "Garrett",
+        "GMR",
         "1",
         "20",
         "20",
